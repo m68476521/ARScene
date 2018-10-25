@@ -1,1 +1,3 @@
 # ARScene
+
+minSdkVersion 24
